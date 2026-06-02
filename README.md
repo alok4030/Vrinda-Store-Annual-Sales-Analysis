@@ -1,6 +1,6 @@
 # 📊 Vrinda Store Sales Analysis Dashboard
 
-![Dashboard Preview](Vrindass)
+![Dashboard Preview](Vrindass.jpg)
 
 ## 🚀 Project Overview
 
